@@ -1,0 +1,36 @@
+body{background-color: black;}
+
+#profile{
+	margin-top: 20px;
+}
+.col-md-9{
+	background-image: url("background1.jpg");
+	background-repeat: round;
+	background-size: auto 100%;
+}
+.col-md-3{
+	background-color: black;
+}
+h1{font-family: 'Overpass Mono', monospace;
+color: black;}
+h4{font-family: 'Oswald', sans-serif;
+   color: black;
+}
+ul{font-family: 'Overpass Mono', sans-serif;
+}
+ul.nav a:hover { color: red !important;
+     }
+
+li{padding:20px;
+font-size: 25px;}
+
+#actus{text-align: center;
+    color: #9d0c26;
+    font-size: 30px;}
+
+    p{color: black;}
+    h3{color: black;}
+
+ h1{text-decoration: underline;}
+
+ .sepa{margin-top: 80px;}
